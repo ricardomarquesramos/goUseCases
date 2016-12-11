@@ -1,4 +1,4 @@
-package useCases
+package goUseCases
 
 import (
 	"reflect"
